@@ -11,7 +11,7 @@ A modern, responsive AI Image Generator web app built using **HTML**, **CSS**, a
 - ⚡ Clean, animated UI with responsive layout
 
 ## 📸 Demo
-[Live Demo](https://toufeeqahmed916.github.io/ai-image-generator)
+[Live Demo](https://toufeeqahmed916.github.io/ai-Image-Generator/)
 
 ## 🔧 Technologies Used
 - HTML5, CSS3, JavaScript (Vanilla)
