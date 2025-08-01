@@ -7,7 +7,7 @@ const modelSelect = document.getElementById("model-select");
 const countSelect = document.getElementById("count-select");
 const ratioSelect = document.getElementById("ratio-select");
 const gridgallery = document.querySelector(".gallery-grid");
-const API_KEY ="Your Api Key";
+const API_KEY ="YOUR_API_KEY_HERE";
 
 
 
