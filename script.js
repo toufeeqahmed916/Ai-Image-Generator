@@ -98,7 +98,7 @@ const MODEL_URL = `https://api-inference.huggingface.co/models/${selectedModel}`
             console.log(error);
             const imgCard = document.getElementById(`img-card-${i}`);
             imgCard.classList.replace("loading", "error");
-            imgCard.querySelector(".status-text").textContent = "Generation failed! Monthly usage Limit reached.";
+            imgCard.querySelector(".status-text").textContent = "Generation failed! Use Your API Key.";
 
         } 
     })
